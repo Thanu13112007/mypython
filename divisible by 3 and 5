@@ -1,0 +1,10 @@
+#divisibity test
+a=int(input("enter a number"))
+if a%3==0:
+  print("it is divisible by 3")
+elif a%5==0:
+  print("it is divisiblke by 5")
+else:
+  print("it is not divible by 3 and 4")
+  number is 53
+  it is not divisible by 3 and 5
