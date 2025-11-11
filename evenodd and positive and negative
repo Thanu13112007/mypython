@@ -1,0 +1,14 @@
+#even/odd and positive/negartive\
+a=int(input("enter a number "))
+if a==0<a and a%2==0:
+  print("it is positive and even")
+elif a==a<0 and a%2==0:
+ print("it is negative and even")
+elif a==a>0 and a%2!=0:
+  print("it is odd and positive")
+else:
+  print('it is odd and negative')
+
+enter a number 53
+it is odd and positive
+
