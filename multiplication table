@@ -1,0 +1,16 @@
+#multiplication table
+num=int(input("enter a number"))
+i=2
+while i <=10:
+  penter a number2
+{num}*{i}={num*i}
+{num}*{i}={num*i}
+{num}*{i}={num*i}
+{num}*{i}={num*i}
+{num}*{i}={num*i}
+{num}*{i}={num*i}
+{num}*{i}={num*i}
+{num}*{i}={num*i}
+{num}*{i}={num*i}
+rint("{num}*{i}={num*i}")
+  i=i+1
