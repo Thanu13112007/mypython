@@ -1,0 +1,5 @@
+def simple_intrest(p,r,t):
+  simple_interest=(p*r*t)/100
+  return simple_interest
+simple_intrest(2,3,4)
+0.24
