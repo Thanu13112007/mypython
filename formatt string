@@ -1,0 +1,6 @@
+name="thanugowda"
+age=18
+college="sjcit"
+department="Aiml"
+print(f"my name is: {name} and my age is: {age} and iam studying ast: {college} in department of {department}")
+my name is: thanugowda and my age is: 18 and iam studying ast: sjcit in department of Aiml
