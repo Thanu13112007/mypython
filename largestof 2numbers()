@@ -1,0 +1,8 @@
+#largestoftwonumbers
+def largest(a,b):
+  if a>b:
+    return a is largest
+  else:
+    return b is largest
+largest(2,4)
+False
