@@ -1,0 +1,12 @@
+num=int(input("enter a number"))
+if num<0:
+  print("enter a number")
+else:
+  sum_numbers = 0
+  counter = 1
+  while counter <= num:
+    sum_numbers += counter
+    counter += 1
+print("the sum of natural number is: ",sum_numbers)
+enter a number5
+the sum of natural number is:  15
