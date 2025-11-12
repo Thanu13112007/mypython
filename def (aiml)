@@ -1,0 +1,8 @@
+def aiml():
+  print("thanu")
+  print("jeevitha")
+  print("gani")
+aiml()
+thanu
+jeevitha
+gani
