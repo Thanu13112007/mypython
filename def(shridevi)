@@ -1,0 +1,8 @@
+def shridevi():
+  print("my name is thanu")
+  print("my age is 18")
+  print("my roll number is 44")
+shridevi()
+my name is thanu
+my age is 18
+my roll number is 44
